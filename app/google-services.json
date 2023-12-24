@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "989700647366",
+    "project_id": "quick-book-c87ce",
+    "storage_bucket": "quick-book-c87ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989700647366:android:6bf4c89668f0df41b1aac7",
+        "android_client_info": {
+          "package_name": "com.example.quickbook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_GEmajF3b6NESFGEq5l2P9Ejdu4QDrio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
